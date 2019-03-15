@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SMSsender_4</string>
+    <string name="title_activity_gps">GPSActivity</string>
+    <string name="send">Send</string>
+    <string name="send_to">Send To :</string>
+    <string name="title_activity_main">Location Sender</string>
+    <string name="dash">-</string>
+    <string name="response">Response</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+
+    <string-array name="types">
+        <item>car</item>
+        <item>van</item>
+        <item>bike</item>
+        <item>bus</item>
+        <item>lorry</item>
+    </string-array>
+
+</resources>
